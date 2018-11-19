@@ -1,0 +1,1 @@
+dotnet sql-cache create "Server=(localdb)\mssqllocaldb;Database=ExemploCacheDistribuido;Trusted_Connection=True;" dbo SqlServerCache
